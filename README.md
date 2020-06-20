@@ -1,3 +1,1 @@
-# angular-7-registration-login-example
-
-Angular 7 User Registration and Login with Angular CLI
+Login Registration page for Dishbee
